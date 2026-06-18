@@ -83,21 +83,6 @@ public class Harish {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Harish-Gnanasekaran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harish-Gnanasekaran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Harish-Gnanasekaran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Gnanasekaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -113,16 +98,6 @@ public class Harish {
 <div align="center">
 
 [![Harish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harish-Gnanasekaran&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Harish-Gnanasekaran)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harish-Gnanasekaran&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Harish-Gnanasekaran)
 
 </div>
 
