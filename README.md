@@ -16,7 +16,7 @@
 public class Harish {
 
     String name        = "Harish G";
-    String location    = "Erode, Tamil Nadu, India";
+    String location    = "Chennai, Tamil Nadu, India";
     String degree      = "B.Tech IT @ MPNMJ Engineering College (2022–2026)";
     String cgpa        = "7.93";
     String email       = "harishgnanasekaran311@gmail.com";
@@ -28,8 +28,8 @@ public class Harish {
     };
 
     String[] currentlyLearning = {
-        "System Design", "Microservices",
-        "Docker", "AWS Cloud"
+        "Java full stack" ,"Manual testing","Postman", "React.js",
+        "Springboot", "API"
     };
 
     String funFact = "I debug code faster than I debug life 🐛";
@@ -128,7 +128,7 @@ public class Harish {
 
 ---
 
-## 💼 Work Experience
+## 💼 Internship
 
 <details>
 <summary>🏢 <strong>Gateway Software Solutions</strong> — Full Stack Web Development Intern | Online</summary>
@@ -199,16 +199,6 @@ public class Harish {
 | **SSLC (Class X)** | Wisdom Matric Hr. Sec. School, Kallavi | 2019 – 2020 | **91.8%** |
 
 </div>
-
-### 🌱 Currently Learning
-
-```
-🧱 System Design      → Scalability, Load Balancing, Caching, CAP Theorem
-🐳 Docker             → Containerisation, Docker Compose, Volumes
-☁️  AWS Cloud          → EC2, S3, RDS, Lambda, Elastic Beanstalk
-⚙️  Microservices      → Spring Cloud, API Gateway, Service Discovery
-🔐 Spring Security    → OAuth2, JWT, Role-Based Access Control
-```
 
 ---
 
